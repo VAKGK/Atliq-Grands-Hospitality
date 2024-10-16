@@ -22,8 +22,9 @@ AtliQ Grands, a five-star hotel chain, is seeking to regain market share and rev
 
 🔗 𝐄𝐱𝐩𝐥𝐨𝐫𝐞 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐨𝐧
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
+
 𝐂𝐡𝐞𝐜𝐤 𝐌𝐲 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨: https://lnkd.in/gZhS__bU
-L𝗶𝘃𝗲 𝗱𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱: https://app.powerbi.com/view?r=eyJrIjoiODM3MjEyMjktYTgyOC00YTBjLTk5NjYtMTJlOGI1OGJmYjcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍╍
 
 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 🙏:
