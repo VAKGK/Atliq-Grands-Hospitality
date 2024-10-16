@@ -1,4 +1,4 @@
-🛡️ 𝑨𝑻𝑳𝑰𝑸 𝑮𝑹𝑨𝑵𝑫𝑺 𝑯𝑶𝑺𝑷𝑰𝑻𝑨𝑳𝑰𝑻𝒀 𝑪𝑯𝑨𝑳𝑳𝑬𝑵𝑮𝑬 ✨
+🛡️ 𝑨𝑻𝑳𝑰𝑸 𝑮𝑹𝑨𝑵𝑫𝑺 𝑯𝑶𝑺𝑷𝑰𝑻𝑨𝑳𝑰𝑻𝒀 𝑨𝑵𝑨𝑳𝒀𝑺𝑰𝑺 𝑺𝑸𝑳 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 ✨
 
 𝐒𝐡𝐨𝐫𝐭 𝐈𝐧𝐟𝐨 𝐀𝐛𝐨𝐮𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 :
 AtliQ Grands, a five-star hotel chain, is seeking to regain market share and revenue in the luxury/business segment through "Business and Data Intelligence." They’ve hired a 3rd party service provider to analyze historical data, as they lack an in-house analytics team.
