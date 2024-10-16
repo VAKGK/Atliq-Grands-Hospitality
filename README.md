@@ -20,8 +20,6 @@ AtliQ Grands, a five-star hotel chain, is seeking to regain market share and rev
 ➜ 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 - to visualize the data
 ➜ 𝐏𝐨𝐰𝐞𝐫𝐏𝐨𝐢𝐧𝐭 - to present the Insights
 
+
 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 🙏:
 Hemanand Vadivel Sir and Dhaval Patel Sir, your mentorship has been a game-changer for me. I'm forever grateful for your time, wisdom, and encouragement. Thank you for helping me achieve my goals!
-
-If you have watched the presentation till the end,I’d love to hear your feedback! If you’ve watched the presentation, please share your thoughts in the comments. This is my first video presentation, and I’m keen to improve with your insights. 😊
-
