@@ -56,10 +56,15 @@ This project required a deep dive into hospitality-specific analytics and advanc
 
 ```mermaid
 graph TD;
-    A["📂 Historical Booking Data\n(MySQL Database)"] -->|SQL Querying| B{"⚙️ Power BI\nData Transformation"};
-    B -->|DAX Modeling| C["🧮 KPI Engine\n(RevPAR, Occupancy, ADR)"];
-    C -->|Visualization| D["📊 Hospitality Dashboard\n(Trends & Insights)"];
-    D -->|Strategy| E["💡 Strategic Recommendations\nPowerPoint"];
+    A["📂 Historical Booking Data 
+     (MySQL Database)"] -->|SQL Querying| B{"⚙️ Power BI 
+      Data Transformation"};
+    B -->|DAX Modeling| C["🧮 KPI Engine 
+        (RevPAR, Occupancy, ADR)"];
+    C -->|Visualization| D["📊 Hospitality Dashboard 
+         (Trends & Insights)"];
+    D -->|Strategy| E["💡 Strategic Recommendations 
+         PowerPoint"];
 
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
