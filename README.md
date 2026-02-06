@@ -1,25 +1,66 @@
-🛡️ 𝑨𝑻𝑳𝑰𝑸 𝑮𝑹𝑨𝑵𝑫𝑺 𝑯𝑶𝑺𝑷𝑰𝑻𝑨𝑳𝑰𝑻𝒀 𝑨𝑵𝑨𝑳𝒀𝑺𝑰𝑺 𝑺𝑸𝑳 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 ✨
+# 🏨 AtliQ Grands Hospitality Analysis
 
-𝐒𝐡𝐨𝐫𝐭 𝐈𝐧𝐟𝐨 𝐀𝐛𝐨𝐮𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 :
-AtliQ Grands, a five-star hotel chain, is seeking to regain market share and revenue in the luxury/business segment through "Business and Data Intelligence." They’ve hired a 3rd party service provider to analyze historical data, as they lack an in-house analytics team.
+### **Revitalizing Market Share for a Luxury Hotel Chain**
 
-𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐓𝐫𝐚𝐜𝐤𝐞𝐝:
-➜ Revenue 
-➜ Occupancy 
-➜ Avg_Rating
-(I have explained the problem statement in the video)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
-𝐊𝐧𝐨𝐰𝐥𝐞𝐝𝐠𝐞 𝐠𝐚𝐢𝐧𝐞𝐝 𝐟𝐫𝐨𝐦 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 :
-➜Deepened understanding of Hospitality operations and terminology
-➜Applied advanced DAX functions (e.g., finding date gaps, Dynamic Titles, Indicators)
-➜Used trend chart along with key metrics, just show the trend along with the metrics itself
-➜Explored new visualizations,Switch buttons
+---
 
-𝐈𝐧 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭, 𝐈 𝐡𝐚𝐯𝐞 𝐮𝐬𝐞𝐝 𝐭𝐨𝐨𝐥𝐬 𝐥𝐢𝐤𝐞:
-➜ 𝗠𝘆𝗦𝗤𝗟 - To Query the Database
-➜ 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 - to visualize the data
-➜ 𝐏𝐨𝐰𝐞𝐫𝐏𝐨𝐢𝐧𝐭 - to present the Insights
+## 📖 Overview
 
+**The luxury hospitality market is fierce.** **AtliQ Grands**, a prestigious five-star hotel chain in India, has seen a decline in market share and revenue within the luxury and business segments. Without an in-house analytics team, they struggled to identify the root causes.
 
-𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐓𝐡𝐚𝐧𝐤𝐬 🙏:
-Hemanand Vadivel Sir and Dhaval Patel Sir, your mentorship has been a game-changer for me. I'm forever grateful for your time, wisdom, and encouragement. Thank you for helping me achieve my goals!
+As a data analyst, I was brought in to implement "Business and Data Intelligence." This project focuses on analyzing historical booking and revenue data to provide actionable insights that can help AtliQ Grands regain its competitive edge.
+
+> *"Using data to bring the 'Grand' back to AtliQ Grands."*
+
+---
+
+## 🎯 Key Metrics Tracked
+
+To assess the health of the properties, I tracked three primary KPIs:
+
+* **💰 Revenue:** Total revenue realized from bookings.
+* **🏨 Occupancy %:** The percentage of available rooms that were successfully booked.
+* **⭐ Avg Rating:** Average customer satisfaction score, a critical driver in the luxury segment.
+
+---
+
+## 🛠️ Tools Used
+
+* **🐬 MySQL:** Used to query the database, perform initial data integrity checks, and understand the schema.
+* **📊 Power BI:** The core tool for data modeling, advanced DAX calculations, and interactive visualization.
+* **📝 PowerPoint:** Used to present the strategic insights to stakeholders in a clear, narrative format.
+
+---
+
+## 🧠 Knowledge & Skills Applied
+
+This project required a deep dive into hospitality-specific analytics and advanced Power BI techniques:
+
+* **🛎️ Domain Knowledge:** Gained a solid understanding of hospitality operations, pricing strategies, and key terminology (e.g., RevPAR, ADR, DSRN).
+* **🧮 Advanced DAX:**
+    * Implemented logic for identifying date gaps.
+    * Created **Dynamic Titles** to make reports context-aware.
+    * Built custom **Indicators** to visually flag performance trends (Up/Down arrows).
+* **🎨 Visualization Mastery:**
+    * Combined **Trend Charts** with single-value metrics for immediate historical context.
+    * Implemented **Switch Buttons** for seamless toggling between different views.
+
+---
+
+## ⚙️ The Workflow
+
+```mermaid
+graph TD;
+    A["📂 Historical Booking Data\n(MySQL Database)"] -->|SQL Querying| B{"⚙️ Power BI\nData Transformation"};
+    B -->|DAX Modeling| C["🧮 KPI Engine\n(RevPAR, Occupancy, ADR)"];
+    C -->|Visualization| D["📊 Hospitality Dashboard\n(Trends & Insights)"];
+    D -->|Strategy| E["💡 Strategic Recommendations\nPowerPoint"];
+
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style C fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
